@@ -22,7 +22,20 @@ This project focuses on cleaning and analyzing global layoff data using **MySQL*
    - Calculate **rolling totals** to visualize layoffs over time 
 ## 🛠️ Technology Used
 - SQL(MySQL) – Data cleaning and exploratory analysis
-## 📌 Acknowledgments
+
+## 📌 **Getting Started**
+### 🔧 **Requirements**  
+- MySQL database system 🐬  
+- MySQL IDE (e.g., MySQL Workbench, DBeaver)   
+- `layoffs` raw table containing layoff records   
+
+### ▶️ **How to Run**  
+1. Open your MySQL IDE and connect to your database 
+2. Ensure the `layoffs` table is available  
+3. Run the SQL queries in sequence to clean, transform, and analyze the data 
+
+
+## 📌 Acknowledgements
 - This project was inspired by [@Alex The Analyst.](https://youtu.be/4UltKCnnnTA?si=g9HZUHBWonJuHTBE)
 - Dataset [here.](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
 ## ✍️ Author
